@@ -17,8 +17,8 @@ The game automatically detects wins and draws.
 
 ## Technologies Used
 - Java (Core)
-- Java Swing (GUI)
-- AWT (Layout and Events)
+- Java Swing (GUI components)
+- Java AWT (Colors, Fonts, Layouts, Events)
 
 ## How to Run
 1. Clone the repository
@@ -34,9 +34,11 @@ The game automatically detects wins and draws.
 - If all 9 boxes filled with no winner → Draw
 
 ## Project Structure
-src/
-└── tictactoe/
-└── Main.java
+├── src/
+│   └── tictactoe/
+│       └── Main.java
+├── .gitignore
+└── README.md
 
 ## Author
 **Pyanshu Mahajan**
