@@ -34,13 +34,13 @@ The game automatically detects wins and draws.
 - If all 9 boxes filled with no winner → Draw
 
 ## Project Structure
-'''
+```
 ├── src/
 │   └── tictactoe/
 │       └── Main.java
 ├── .gitignore
 └── README.md
-'''
+```
 ## Author
 **Pyanshu Mahajan**
 GitHub: https://github.com/MahajanPyanshu
