@@ -218,6 +218,4 @@ public class Main implements ActionListener {
         Main obj=new Main();
 
     }
-
-
 }
